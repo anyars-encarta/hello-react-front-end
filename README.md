@@ -20,6 +20,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+- [🚀 Back-end Link](#back-end)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -62,6 +63,13 @@
 
 > - Display Greetings using React frontend from a Rails backend
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- BACK END -->
+
+### BACK END
+
+> View the [Back-end](https://github.com/anyars-encarta/hello-rails-back-end.git) part of the project here.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
