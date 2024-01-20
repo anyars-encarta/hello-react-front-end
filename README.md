@@ -41,7 +41,7 @@
 
 > Greetings React project Front-end is the backend of a fun meet and greet project that uses both Rails backend and React with Webpack frontend. If you want to have endless greetings, here is your friend. The greeting display has been set up with a Timer and changes after every 10 seconds.
 >
-> Greetings React project Front-end is the backend of a
+> Greetings React project Front-end is the backend of
 
 ## 🛠 Built With <a name="built-with"></a>
 1. React
